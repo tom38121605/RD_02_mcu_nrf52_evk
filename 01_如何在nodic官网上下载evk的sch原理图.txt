@@ -1,0 +1,13 @@
+
+0.  可以把板子的图片，放到taobao里面搜索，取得更多的初步信息
+
+1. 打开官网  https://www.nordicsemi.com
+
+2. 搜索 “nrf52840   dk”
+
+3. 在出现的一栏 evk开发板列表， 选择点击 “nRF52840 DK  Get Started”
+
+4. 在新的一页，往下翻，点击 右边的download
+
+5. 往下翻，左边出现 hardware files , 点击 nrf52840-development-kit---hardware-files-3_0_3.zip，下载
+
